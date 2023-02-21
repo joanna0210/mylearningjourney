@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(214, 214, 188);
+}
+
+.container{
+    background-color: bisque;
+}
+
+.mylist{
+    border: 4px dotted rgb(144, 70, 43);
+    width: 200px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.myimage{
+    padding: 100px;
+    border: 10px solid rgb(210, 91, 64);
+    margin: 30px;
+}
