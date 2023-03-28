@@ -54,3 +54,6 @@
 ## Μάθημα 7-Γλώσσα Προγραμματισμού Python
 - Μάθαμε να φτιάχνουμε έναν κύκλο με διάφορα μεγέθη,χρώματα και τοποθεσίες στον καμβά.
 - Μάθαμε με την βοήθεια του κύκλου να "ζωγραφίζουμε" διάφορα σχέδια στον καμβά.
+## Μάθημα 8-Εκπαιδευτικοί σύνδεσμοι Python
+- [Computer science curriculum: free for all, designed for you.](https://academy.cs.cmu.edu/)
+- [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
