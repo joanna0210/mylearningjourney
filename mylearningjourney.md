@@ -57,3 +57,9 @@
 ## Μάθημα 8-Εκπαιδευτικοί σύνδεσμοι Python
 - [Computer science curriculum: free for all, designed for you.](https://academy.cs.cmu.edu/)
 - [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [Python online](https://www.programiz.com/python-programming/online-compiler/)
+## Μάθημα 9-Data types της Python
+- Μιλήσαμε για τους τύπους δεδομένων της Python και αναφέραμε κάποιους όπως οι:
+    - Lists-Λίστες
+    - Numbers:integer&float-Αριθμοί:Ακέραιοι και Δεκαδικοί
+    - Booleans:Απανάνε με true ή false, κλπ
